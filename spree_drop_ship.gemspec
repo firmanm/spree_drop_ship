@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.description = 'Adds drop shipping functionality to Spree stores.'
   s.required_ruby_version = '>= 2.0.0'
 
-  s.author    = 'fir'
-  s.email     = ''
-  s.homepage  = 'http://github.com/firman/spree_drop_ship'
+  s.author    = 'Jeff Dutil'
+  s.email     = 'JDutil@BurlingtonWebApps.com'
+  s.homepage  = 'http://github.com/JDutil/spree_drop_ship'
 
   s.files        = `git ls-files`.split("\n")
   s.test_files   = `git ls-files -- {test,spec,features}/*`.split("\n")
